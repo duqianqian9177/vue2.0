@@ -1,0 +1,25 @@
+{
+	"data": "1",
+	"message": "成功",
+	"scriptList": [{
+      "imgUrl": "https://2sc2.autoimg.cn/escimg/g25/M09/11/E2/autohomecar__ChcCr11TpaOAQfrRAABI2LUuzRU729.png",
+      "carname": "全部车源"
+    },
+    {
+      "imgUrl": "https://2sc2.autoimg.cn/escimg/g25/M03/0B/38/autohomecar__ChsEmF1TpceANQX0AABGY-Ke1vM473.png",
+      "carname": "诚信联盟"
+    },
+    {
+      "imgUrl": "https://2sc2.autoimg.cn/escimg/g29/M0B/B3/7E/autohomecar__ChsEfl1TpdiAJ8mlAABH-5sp3qY203.png",
+      "carname": "买卖车"
+    },
+    {
+      "imgUrl": "https://2sc2.autoimg.cn/escimg/g30/M08/B0/D1/autohomecar__ChsEf11TpeeARudWAABEEErHt6U864.png",
+      "carname": "分期"
+    },
+    {
+      "imgUrl": "https://2sc2.autoimg.cn/escimg/g28/M01/B0/70/autohomecar__ChsEnl1TpfmAAusSAABEpV83p_M165.png",
+      "carname": "一成购新"
+    }
+  ]
+}

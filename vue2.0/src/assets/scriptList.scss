@@ -1,0 +1,43 @@
+//按钮入口
+.swipper-each-enter{
+    padding-top: ptr6(10px);
+    padding-bottom: ptr6(34px);
+    margin:0 ptr6(30px);
+    position: relative;
+    .swiper-slide{
+      li{
+        width: 20%;
+        float: left;
+      }
+      .icon-box{
+        width: ptr6(140px);
+        height: ptr6(120px);
+        overflow: hidden;
+        display: block;
+        img{
+          width: 100%;
+        }
+      }
+      p{
+        color:$ColorGray1;
+        font-size: $FontSmall;
+        line-height: 1;
+        text-align: center;
+      }
+    }
+    .swiper-pagination{
+      width: 100%;
+      text-align: center;
+      bottom:ptr6(-12px);
+      .swiper-pagination-bullet{
+        border-radius: 0;
+        width: ptr6(20px);
+        height: ptr6(6px);
+        margin:0;
+        background:$ColorGray5;
+        &.swiper-pagination-bullet-active{
+          background: $ColorGray4;
+        }
+      }
+    }
+  }

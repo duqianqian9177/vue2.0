@@ -1,0 +1,161 @@
+
+.nav-final {
+    padding: .64rem 0;
+    background-color: #fff;
+    color: #4A4A4A;
+    position: relative;
+    z-index: 806;
+    box-sizing: border-box;
+    width: 100%
+  }
+  
+  .nav-final.bottom-line {
+    border-bottom: 1px solid #ccc
+  }
+  
+  .nav-final .used-zuojiantou {
+    left: .64rem;
+    top: .72rem;
+    position: absolute;
+    color:#4A4A4A;
+    display: inline-block
+  }
+  
+  .nav-final .used-zuojiantou:link,.nav-final .used-zuojiantou:visited {
+    color: #fff
+  }
+  
+  .nav-final .nav-shop-title {
+    text-align: center;
+    font-size: .64rem;
+    font-weight: normal;
+    line-height: 1
+  }
+  
+  .nav-final .share-jump {
+    right: .64rem;
+    top: .64rem;
+    position: absolute;
+    display: inline-block;
+    font-size: .682667rem
+  }
+  
+  .nav-final .share-jump:link,.nav-final .share-jump:visited {
+    color: #fff
+  }
+  
+  .nav-final .nav-fulfill-btn {
+    font-size: .512rem;
+    color: #fff;
+    right: .64rem;
+    top: 50%;
+    position: absolute;
+    display: inline-block;
+    -webkit-transform: translate(0, -50%);
+    transform: translate(0, -50%)
+  }
+  
+  .nav-final .layer-menu {
+    visibility: hidden;
+    overflow: visible;
+    z-index: 0
+  }
+  
+  .nav-final.nav-final-white {
+    color: #4A4A4A;
+    background-color: #fff
+  }
+  
+  .nav-final.nav-final-white .back-arrow {
+    color: #4A4A4A
+  }
+  .nav-final.nav-final-white .back-arrow:link,.nav-final.nav-final-white .back-arrow:visited {
+    color: #4A4A4A
+  }
+  
+  .nav-final.nav-final-white .share-jump:link,.nav-final.nav-final-white .share-jump:visited {
+    color: #4A4A4A
+  }
+  
+  .nav-final.nav-final-white .nav-fulfill-btn {
+    color: #4A4A4A
+  }
+    
+
+
+.header {
+    height: 2.304rem;
+    padding: .469333rem .64rem;
+    border-bottom: 1px solid #eee;
+    box-sizing: border-box;
+    width: 100%;
+    background-color: #fff
+}
+
+.header .head-left-box {
+    float: left;
+    width: 12.928rem;
+    border: 1px solid #999;
+    box-sizing: border-box
+}
+
+.header .head-city .city-text {
+    height: 1.408rem;
+    padding-top: .32rem;
+    padding-right: .426667rem;
+    color: #1B1B1B;
+    font-size: .597333rem;
+    display: block;
+    float: left;
+    border: 2px solid #fff;
+    border-right: 1px solid #999;
+    background: #fff;
+    box-sizing: border-box;
+    line-height: 1;
+    margin-right: .426667rem;
+    font-weight: bold;
+    position: relative;
+    margin-top: -.064rem;
+    margin-bottom: -.064rem;
+    margin-left: -.042667rem;
+    z-index: 1
+}
+
+.header .head-city .city-text .usedfont {
+    font-size: .597333rem;
+    color: #1B1B1B;
+    padding-right: .213333rem
+}
+
+.header .search-box {
+    margin-top: .256rem;
+    color: #666;
+    font-size: .426667rem;
+    display: block;
+    box-sizing: border-box;
+    width: 100%
+}
+
+.header .search-box .usedfont {
+    font-size: .512rem;
+    color: #666;
+    margin-right: .426667rem
+}
+
+.header .head-portrait,.nav-final .head-portrait {
+    width: 1.28rem;
+    height: 1.28rem;
+    display: block;
+    margin-left: .512rem;
+    float: right
+}
+.nav-final .head-portrait{
+    position: absolute;
+    right: 5%;
+    top:0.72rem;
+}
+
+.header .head-portrait img,
+.nav-final .head-portrait img {
+    width: 100%
+}

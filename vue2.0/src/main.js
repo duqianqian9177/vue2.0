@@ -1,8 +1,13 @@
 import Vue from 'vue'
-import App from './App.vue'
+import Layout from './components/layout';
+
+import axios from 'axios'
+
+Vue.prototype.$ajax = axios
 
 Vue.config.productionTip = false
-
+Vue.use(Layout);
 new Vue({
-  render: h => h(App),
-}).$mount('#app')
+  el:"#app",
+  render: h => h(Layout),
+})
