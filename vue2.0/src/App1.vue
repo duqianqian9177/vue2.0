@@ -8,7 +8,7 @@
 <script>
 // import Layout from './components/layout.vue'
 
-export default {
+export default {   
   name: 'app',
   components: {
     // Layout
