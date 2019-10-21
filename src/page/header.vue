@@ -10,7 +10,7 @@
        </i>
     </div> 
 
-     <div class="header filter-wrap"  v-else-if=" userName=='header' ">
+     <div class="header filter-wrap"  v-else-if=" userName=='header'">
        <div class="filter">
               <div class="head-left-box">
                   城市
