@@ -10,7 +10,7 @@ export default {
     components:{
       ScriptList
     },
-    data(){
+    data(){  
       return {
 
       }
